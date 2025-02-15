@@ -1,2 +1,2 @@
 # bigdatanotes
-Hadoop and Hive implemented
+Notes quite pristine, kindly handle with care.
