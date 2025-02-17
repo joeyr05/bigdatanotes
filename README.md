@@ -1,2 +1,2 @@
 # bigdatanotes
-Notes quite pristine, kindly handle with care.
+Implemented: Hadoop, Hbase, Pig, Cassandra. Will be regularly updated.
